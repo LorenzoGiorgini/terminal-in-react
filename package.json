@@ -1,9 +1,9 @@
 {
-  "name": "terminal-in-react",
+  "name": "@movia-ui/terminal-in-react",
   "version": "4.3.1",
   "description": "A component for making a terminal in React",
   "main": "lib/js/index.js",
-  "module": "src/index.js",
+  "module": "lib/js/index.js",
   "repository": "https://www.github.com/nitin42/terminal-in-react",
   "author": "Nitin Tulswani",
   "license": "MIT",
